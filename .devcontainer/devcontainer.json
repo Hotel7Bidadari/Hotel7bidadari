@@ -1,0 +1,12 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  } https://github.com/Budibase/budibase/files/8789877/Login.Template-export-1653687114948.txt
+}echo "# Hotel7bidadari" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git Branch -M main 
+git remote add origin https://github.com/Hotel7Bidadari/Hotel7bidadari.git
+ git push - kamu asal utama
+https://bidadari.websites.co.in/media/double-room-atau-ranjang-pisah/695830
